@@ -2,3 +2,16 @@
 env/
 venv/
 .venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# JupyterLab
+*.lock
+.jupyter/lab/workspaces/
+
+# Ignore local git config
+.gitconfig
+
+# Conda environment backup
+*.yaml
