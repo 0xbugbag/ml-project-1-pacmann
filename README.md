@@ -32,3 +32,7 @@
 3. Training a Machine Learning Models
 4. Test Prediction
 ```
+
+## Acknowledgments
+This project was developed during course with Pacmann and may include materials provided by Sekolah Data, Pacmann AI. 
+
