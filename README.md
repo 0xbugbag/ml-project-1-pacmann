@@ -36,3 +36,6 @@
 ## Acknowledgments
 This project was developed during course with Pacmann and may include materials provided by Sekolah Data, Pacmann AI. 
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
